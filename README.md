@@ -1,2 +1,2 @@
 # GeolocationChurch
-sistemapa para Geolocation de Igrejas
+sistema para Geolocation de Igrejas
